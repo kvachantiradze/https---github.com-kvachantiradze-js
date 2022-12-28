@@ -19,4 +19,4 @@
 
   console.log(str.toUpperCase())
 
-  document.getElementById('js').innerHTML = str
+  document.getElementById('str').innerHTML = str
